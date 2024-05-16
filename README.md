@@ -1,8 +1,8 @@
 # Toman-Bike-Share-Sales-Analysis
-This project focuses on sales analysis of Toman Bike Share shop. It involves hourly revenue analysis, profit and revenue trend analysis, seasonal revenue and rider demographic analysis. The data set contains over 34,000 rows with information related to the date, weekday, month, season and year of the ride, the number of riders at every hour, the type of the rider, the hourly temperature and weather and the price and cost of goods.
+This project focuses on sales analysis of Toman Bike Share company. It involves hourly revenue analysis, profit and revenue trend analysis, seasonal revenue and rider demographic analysis. The data set contains over 34,000 rows with information related to the date, weekday, month, season and year of the ride, the number of riders at every hour, the type of the rider, the hourly temperature and weather and the price and cost of goods.
 
 Process summary
-1.  Used SQL for Data Cleaning, Data Engineering and EDA (RFM analysis) of a 34000+ rows Toman Bike Share company.
+1.  Used SQL for Data Cleaning, Data Engineering and EDA of a 34000+ rows Toman Bike Share company.
 2. Prepared visualizations in Power BI for in-depth analysis.
 
 Insights
